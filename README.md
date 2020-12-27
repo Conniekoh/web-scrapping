@@ -2,7 +2,7 @@
 Newspaper is a Python module used for extracting and parsing news articles. To extract information from the websites of newspapers and magazines we are going to use Newspaper library.
 Using Newspaper library, not only extracting and curating articles, but you can also extract text, summary text, get text keyword.
 
-## Getting Started (Using Jupyter Notebook):
+## Getting Started:
 1. Download [Anaconda](https://docs.anaconda.com/anaconda/user-guide/tasks/install-packages/). 
 * I downloaded Individual Edition. Anaconda is the world's most popular Python distribution platform which contains Python packages including Jupyter Notebook, Scipy, Numpy, Panda, Matplotlib, TensorFlow, etc. 
 

@@ -1,3 +1,7 @@
-# How to Scrape News Article Using Python
-Scrape and summarize news articles using requests and Beautifulsoup
+# How to Scrape News Articles Using Python
+Scrape and summarize news articles using Python 
+
+BeautifulSoup. This official package informatino can be found dowloaded.
+
+
 

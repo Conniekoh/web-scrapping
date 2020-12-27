@@ -10,7 +10,7 @@ Using Newspaper library, not only extracting and curating articles, but you can 
 
 3. Installation Newspaper Module
 > * Install Newspaper module in your terminal 
-![Jupyter](https://miro.medium.com/max/875/1*sGld5VM-7B8vL2dCtvvF5w.png)
+![image1](https://github.com/Conniekoh/Web-Scrapping/blob/master/images/Capture.PNG)
 
 4. Ready to Scrape News Articles
 

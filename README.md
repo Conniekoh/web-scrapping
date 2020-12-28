@@ -33,7 +33,7 @@ nltk.download('punkt')
 article.nlp()
 ```
 
-* get pulication date of the news article
+* get the publication date of the news article
 ```py
 article.publish_date
 ```

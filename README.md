@@ -54,7 +54,7 @@ article.keywords
 print(article.summary)
 ```
 
-* who is the author of the article?
+* get author's name
 ```py
 article.authors
 ```

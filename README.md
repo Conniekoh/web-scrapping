@@ -23,7 +23,7 @@ pip install newspaper3k
 import nltk
 from newspaper import Article
 ```
-```
+
 * download news article
 ```py
 url = 'https://www.cnbc.com/2020/12/27/wonder-woman-1984-opening-weekend-leads-to-fast-tracked-third-film.html'

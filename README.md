@@ -9,6 +9,7 @@ Using Newspaper library, not only extracting and curating articles, but you can 
 ## Getting Started:
 **1. Download [Anaconda](https://docs.anaconda.com/anaconda/user-guide/tasks/install-packages/).**
 * I downloaded Individual Edition. Anaconda is the world's most popular Python distribution platform which contains Python packages including Jupyter Notebook, Scipy, Numpy, Panda, Matplotlib, TensorFlow, etc. 
+
 **2. Launch a Jupyter Notebook. You need to launch a Jupyter notebook to write and iterate your Python code. See [Instruction](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks/).**
 
 **3. Installation Newspaper Module in your Jupyter notebook terminal**
